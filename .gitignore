@@ -1,0 +1,8 @@
+__pycache__/
+*.py[cod]
+expenses.db
+expenses_export.csv
+.venv/
+venv/
+.env
+.DS_Store
